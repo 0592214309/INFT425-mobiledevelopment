@@ -116,7 +116,8 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-!/dev/ci/**/Gemfile.lock.DS_Store
+!/dev/ci/**/Gemfile.lock
 .dart_tool/
 build/
 .idea/
+.DS_Store
